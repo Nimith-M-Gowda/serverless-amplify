@@ -1,5 +1,8 @@
 # serverless-amplify
 Building Serverless Applications with AWS Amplify
+https://dev.d3eeobqhqdmcxp.amplifyapp.com/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
