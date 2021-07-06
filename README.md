@@ -1,9 +1,7 @@
 # serverless-amplify
 Building Serverless Applications with AWS Amplify
-https://dev.d3eeobqhqdmcxp.amplifyapp.com/
 
-This is based on tutorial https://thenewstack.io/building-serverless-applications-with-aws-amplify/
-
+hosturl : https://dev.d3eeobqhqdmcxp.amplifyapp.com/  ( currently disabled )
 
 ## Available Scripts
 
@@ -71,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+This is based on tutorial https://thenewstack.io/building-serverless-applications-with-aws-amplify/
+
