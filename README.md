@@ -2,6 +2,8 @@
 Building Serverless Applications with AWS Amplify
 https://dev.d3eeobqhqdmcxp.amplifyapp.com/
 
+This is based on tutorial https://thenewstack.io/building-serverless-applications-with-aws-amplify/
+
 
 ## Available Scripts
 
