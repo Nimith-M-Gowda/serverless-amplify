@@ -3,6 +3,8 @@ Building Serverless Applications with AWS Amplify
 
 hosturl : https://dev.d3eeobqhqdmcxp.amplifyapp.com/  ( currently disabled )
 
+Every commits are based on steps-followed
+
 ## Available Scripts
 
 In the project directory, you can run:
